@@ -1,0 +1,26 @@
+AMS1118-3.3 :  volt reg to 3.3v
+Ferrit _bead : to filter any high nose freq in input 100ohm at 100MHz   https://en.wikipedia.org/wiki/Ferrite_bead
+Fuse  for short Curcuit
+input reverse polarity protection : D_schottky
+
+cap for   stability
+--------------------------------------------------------
+
+Vbat if  you have extern battery if vdd=0 it switsh to it
+VDDA  sort of  analog ref if you use  analog  pin 
+------
+Boot 0 ; down for  prog with serial 
+         up  for uart and usb prog
+-------------------------
+PH0 PH1  for HSE
+CAP HERE ARE LOAD  CAP
+R to limit  drive level go to
+
+Cl=2*(CLoad_Crystal-CParasitic)=2(9-2)=14 so  w e acn use  &é also 
+
+
+
+---------------------------
+https://jlcpcb.com/?gclid=Cj0KCQjwxNT8BRD9ARIsAJ8S5xZOdyaxZjfAvE4Wouh298o91HUKFdOVGUT539EUKn4mFvj2ziOvWnEaAqR2EALw_wcB
+C3 V=25V pacakge  0805
+choose smd from llcpcb part

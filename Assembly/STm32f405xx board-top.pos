@@ -1,0 +1,42 @@
+### Module positions - created on 27/10/2020 13:42:57 ###
+### Printed by Pcbnew version kicad (5.1.4)-1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val            Package                                   PosX       PosY       Rot  Side
+C1        2.2uF          C_0603_1608Metric                     110.2360   -88.3920  270.0000  top
+C2        2.2uF          C_0603_1608Metric                     115.5700   -76.2000    0.0000  top
+C3        10uF           C_0805_2012Metric                      96.3930   -69.5960    0.0000  top
+C4        10uF           C_0805_2012Metric                      93.4720   -63.7540   90.0000  top
+C5        12pF           C_0402_1005Metric                      95.5040   -74.6760    0.0000  top
+C6        100nF          C_0402_1005Metric                      97.8027   -81.8515   90.0000  top
+C7        12pF           C_0402_1005Metric                      95.5040   -80.2640  180.0000  top
+C8        10nF           C_0402_1005Metric                      99.0092   -81.8896   90.0000  top
+C9        10uF           C_0603_1608Metric                     100.3300   -73.6600   90.0000  top
+C10       100nF          C_0402_1005Metric                     103.0097   -87.8205  180.0000  top
+C11       100nF          C_0402_1005Metric                     103.0351   -88.8746  180.0000  top
+C12       100nF          C_0402_1005Metric                     111.7600   -86.8680  270.0000  top
+C13       100nF          C_0402_1005Metric                      98.6790   -76.2000  180.0000  top
+C14       100nF          C_0402_1005Metric                     113.0300   -74.2950   90.0000  top
+C15       100nF          C_0402_1005Metric                     114.3000   -74.2950   90.0000  top
+C16       100nF          C_0402_1005Metric                     102.8700   -71.3740    0.0000  top
+C17       100nF          C_0402_1005Metric                     113.0300   -86.8680  270.0000  top
+C18       100nF          C_0402_1005Metric                     102.8700   -72.5170    0.0000  top
+D1        B5819W         D_SOD-123                              86.4870   -68.0720   90.0000  top
+D2        Red            D_0603_1608Metric                     115.8240   -83.8200  180.0000  top
+D3        Red            D_0603_1608Metric                     105.5370   -64.7700  180.0000  top
+F1        500mA          Fuse_0603_1608Metric                   89.4080   -69.7230    0.0000  top
+FB1       100_@100MHz    L_0805_2012Metric                      92.8370   -69.5960    0.0000  top
+FB2       100_@100MHz    L_0805_2012Metric                      95.2500   -83.8200   90.0000  top
+G***      LOGO           F4Silkscreen                           92.7100   -93.9800    0.0000  top
+HSE1      16MHz          Crystal_SMD_3225-4Pin_3.2x2.5mm        95.5040   -77.4700  270.0000  top
+J6        ARM_10pin_SWD  PinHeader_2x05_P1.27mm_Vertical_SMD   122.6566   -66.7004  180.0000  top
+R1        2.2_K          R_0603_1608Metric                     119.5070   -83.8200  180.0000  top
+R2        2.2_K          R_0603_1608Metric                     106.2228   -61.4172  270.0000  top
+R3        220            R_0402_1005Metric                      98.5520   -78.7400    0.0000  top
+R4        2.2K           R_0402_1005Metric                     105.6640   -70.3580    0.0000  top
+R5        10k            R_0402_1005Metric                     105.0290   -72.0090  270.0000  top
+R6        10k            R_0402_1005Metric                     108.4580   -88.0110   90.0000  top
+R7        2.2K           R_0402_1005Metric                     107.8230   -70.3580  180.0000  top
+U1        STM32F405RGT6  LQFP-64_10x10mm_P0.5mm                106.6800   -80.0100    0.0000  top
+U2        AMS1117-3.3    SOT-223-3_TabPin2                      99.1870   -64.7700    0.0000  top
+## End

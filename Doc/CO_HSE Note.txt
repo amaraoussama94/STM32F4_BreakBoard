@@ -1,0 +1,13 @@
+16 MHz 9 pF 10 ppm SMD Crystal - YXC
+
+Extra Information
+Brand:
+YXC
+Termination:
+SMD
+Frequency:
+16 MHz
+Load Capacitance:
+9 pF
+Frequency Tolerance:
+10 ppm
