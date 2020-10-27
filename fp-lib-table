@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name LogoSilkscreen)(type KiCad)(uri ${KIPRJMOD}/LogoSilkscreen.pretty)(options "")(descr ""))
+)
